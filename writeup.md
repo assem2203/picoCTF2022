@@ -10,11 +10,11 @@ This is the writeup of Team(assem) competition picoCTF 2022.
  #1 Enhance!
 Download this image file and find the flag.
 flag hint : (None)
-₩₩₩
+```
  score: 100
  flag : picoCTF{3nh4nc3d_56e87c96}
  solve : $ identify -verbose drawing.flag.svg
-₩₩₩
+```
 
  #3 Lookey here
 Attackers have hidden information in a very large mass of data in the past, maybe they are still doing it. Download thr data here.
